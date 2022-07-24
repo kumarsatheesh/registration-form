@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-attachment: fixed;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card {
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.register_btn {
+  margin: auto;
+}
+
+.validatetxt {
+  color: red !important;
+}
